@@ -1,0 +1,22 @@
+{
+    "name": "Bear Cola 3",
+    "description": "Bear Cola",
+    "image": "https://ipfs.io/ipfs/QmeVMRapoY3N6RjUmx1tvydXubVLfd6YPUqrTs6bWVJre1",
+    "attributes": [{
+        "trait_type": "Generation",
+        "value": 1
+      },
+      {
+        "trait_type": "Cola",
+        "value": 2
+      },
+      {
+        "trait_type": "Bear",
+        "value": "regular"
+      },
+      {
+        "trait_type": "Background",
+        "value": "home"
+      }
+    ]
+}
